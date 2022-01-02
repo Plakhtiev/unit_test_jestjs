@@ -1,0 +1,22 @@
+{
+  "name": "intro_unit_testing",
+  "version": "1.0.0",
+  "description": "learn unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javacsript",
+    "unit",
+    "testing",
+    "jest"
+  ],
+  "author": "monatkotata@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.24.0",
+    "jest": "^27.4.5"
+  }
+}
